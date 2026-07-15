@@ -1,0 +1,11 @@
+# Fichiers système et de configuration VS Code
+.vscode/
+Thumbs.db
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
